@@ -5,7 +5,7 @@ const ghpages = require('gh-pages');
 
 const options = {
     branch: 'gh-pages',
-    repo: 'https://github.com/andrew781026/F2E_Card.git' // project github repo
+    repo: 'https://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@github.com/goodchiang/CC6FCamping' // project github repo
 };
 
 const callback = err => {
