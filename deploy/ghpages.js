@@ -5,7 +5,7 @@ const ghpages = require('gh-pages');
 
 const options = {
     branch: 'gh-pages',
-    repo: 'https://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@github.com/goodchiang/CC6FCamping' // project github repo
+    repo: 'https://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@github.com/goodchiang/CC6FCamping' // project github repo
 };
 
 const callback = err => {
