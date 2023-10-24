@@ -1,4 +1,4 @@
-# cc6fcamping
+# CC6F-Camping
 
 ## Project setup
 ```
